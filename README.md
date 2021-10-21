@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there! 👋
 
 I'm **Denis** a Javascript lover and the creator of [Interjs](https://github.com/DenisPower1/inter).
 
