@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm **Denis** a Javascript lover and the creator of [Interjs](https://github.com/DenisPower1/inter).
+
+I spend most of my time programming in Javascript both front-end and back-end.
+
+You can reach me on [Facebook](https://free.facebook.com/denis.power.146) there you can ask me any question!
+
 <!--
 **DenisPower1/DenisPower1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
