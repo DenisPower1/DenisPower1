@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-I'm **Denis** a Javascript lover and the creator of [Interjs](https://github.com/DenisPower1/inter).
+I'm **Denis** a Javascript lover and the creator of [Inter](https://github.com/interjs).
 
 I spend most of my time programming in Javascript both front-end and back-end.
 
