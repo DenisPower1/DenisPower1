@@ -4,7 +4,7 @@ I'm **Denis** a Javascript expert and the creator of [Inter](https://github.com/
 
 I spend most of my time programming in Javascript both front-end and back-end.
 
-You can reach me through [Facebook](https://free.facebook.com/denis.power.146) or through my personal email: denispower02@gmail.com,  there you can ask me any question!
+You can reach me through my personal email: denispower02@gmail.com,  there you can ask me any question!
 
 <!--
 **DenisPower1/DenisPower1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
