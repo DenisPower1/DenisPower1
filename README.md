@@ -2,7 +2,7 @@
 
 I'm **Denis** a Javascript expert and the creator of [Inter](https://github.com/interjs).
 
-I spend most of my time programming in Javascript both front-end and back-end.
+I spend most of my time coding in Javascript both front-end and back-end.
 
 You can reach me through my personal email: denispower02@gmail.com,  there you can ask me any question!
 
